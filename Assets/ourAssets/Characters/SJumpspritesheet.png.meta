@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: 49a3cbe531008422f9ed4a72a61fc7e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8916648416123742390
+    second: SJumpspritesheet_0
+  - first:
+      213: -2647635972054613051
+    second: SJumpspritesheet_1
+  - first:
+      213: 4674510393641632461
+    second: SJumpspritesheet_2
+  - first:
+      213: -3872550492722282343
+    second: SJumpspritesheet_3
+  - first:
+      213: -5990928736098882627
+    second: SJumpspritesheet_4
+  - first:
+      213: 2978989463837174859
+    second: SJumpspritesheet_5
+  - first:
+      213: -389093035460199771
+    second: SJumpspritesheet_6
+  - first:
+      213: 1527258168671934219
+    second: SJumpspritesheet_7
+  - first:
+      213: -1961755034863012422
+    second: SJumpspritesheet_8
+  - first:
+      213: 8084682175906284949
+    second: SJumpspritesheet_9
+  - first:
+      213: 51923968001285476
+    second: SJumpspritesheet_10
+  - first:
+      213: -4198848034372037672
+    second: SJumpspritesheet_11
+  - first:
+      213: 2065894129565554505
+    second: SJumpspritesheet_12
+  - first:
+      213: 1167003666405683689
+    second: SJumpspritesheet_13
+  - first:
+      213: -9187725773672757020
+    second: SJumpspritesheet_14
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SJumpspritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 781
+        width: 90
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed9d97630d6a44bbade788148aa94c0
+      internalID: 8916648416123742390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SJumpspritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 781
+        width: 84
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc4be8873ebe4eefb7ea839a64f08db
+      internalID: -2647635972054613051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SJumpspritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 928
+        width: 87
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa62497bd277246268b0bb8bee330c12
+      internalID: 4674510393641632461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SJumpspritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 928
+        width: 117
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86438d4ea03fa4b32876dff35dd50e17
+      internalID: -3872550492722282343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SJumpspritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 781
+        width: 93
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375d8daa21b474618b6b672e99dbf0e0
+      internalID: -5990928736098882627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SJumpspritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 396
+        width: 84
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6608fc19d7144a8b8c2926cdc56372
+      internalID: 2978989463837174859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SJumpspritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 435
+        width: 84
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199f07833921a4cf7a2c520ec5a125c2
+      internalID: -389093035460199771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SJumpspritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 483
+        width: 84
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be14d8abeb29240cf91b4148cef61f38
+      internalID: 1527258168671934219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SJumpspritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 552
+        width: 108
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0591b941d2fc54e82b1f1cb448031518
+      internalID: -1961755034863012422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SJumpspritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 510
+        width: 117
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef395205fdccb4364ad0f9b577665525
+      internalID: 8084682175906284949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SJumpspritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 11
+        width: 126
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615d79394bd964d579f57423570cff78
+      internalID: 51923968001285476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SJumpspritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 5
+        width: 105
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447d637744ac446fbb261a106f0a19fe
+      internalID: -4198848034372037672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SJumpspritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 11
+        width: 120
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58978ceb822134ec6a9756346e735e93
+      internalID: 2065894129565554505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SJumpspritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 11
+        width: 117
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2363458a01d254fb6bc7a10a32cf91da
+      internalID: 1167003666405683689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SJumpspritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 11
+        width: 90
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d544aa8be20434f929fe50d9d50f3b3e
+      internalID: -9187725773672757020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
